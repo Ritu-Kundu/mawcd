@@ -1,0 +1,14 @@
+>testSequence1
+ACC
+
+>testSequence2
+ANC
+
+>testSequence3
+ACN
+
+>testSequence3
+NCC
+
+>testSequence3
+NNN

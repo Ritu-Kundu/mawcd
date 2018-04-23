@@ -1,0 +1,4 @@
+# ignore files generated for the experiments
+/data/*
+/sample/*
+/result/*

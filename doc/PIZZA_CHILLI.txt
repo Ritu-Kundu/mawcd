@@ -1,0 +1,4 @@
+dna.001.01: Each line one sequence of [a,c,g,t,x]: One seq
+fib41: One seq: each line: [a,b]
+rs.13: One seq: each line: [0,1]
+tm29: One seq: each line: [a,b]
